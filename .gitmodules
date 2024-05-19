@@ -1,3 +1,6 @@
 [submodule "MultiplayerTicTacToe-frontend"]
 	path = MultiplayerTicTacToe-frontend
 	url = git@github.com:thisissonali/MultiplayerTicTacToe-frontend.git
+[submodule "MultiplayerTicTacToe-backend"]
+	path = MultiplayerTicTacToe-backend
+	url = git@github.com:thisissonali/MultiplayerTicTacToe-backend.git
